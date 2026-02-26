@@ -1,0 +1,8 @@
+torch>=2.0.0
+transformers>=4.35.0
+langchain>=0.1.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+streamlit>=1.28.0
+requests>=2.31.0
+pyngrok>=7.0.0   # if you want to include ngrok support
