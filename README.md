@@ -14,10 +14,8 @@ This project implements a three‑stage detector for prompt injection attacks us
 ## 📦 Installation
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/yourusername/prompt-injection-detector.git
 cd prompt-injection-
-
 
 2. Set up a Python environment (optional but recommended)
 bash
@@ -37,7 +35,7 @@ export API_URL=http://localhost:8000
 export API_KEY=your-secret-key
 streamlit run app.
 
-Option B: Kaggle (GPU) + Local Streamlit (Your Original Workflow)
+Option B: Kaggle (GPU) + Local Streamlit (Original Workflow)
 On Kaggle (or any GPU machine):
 Upload the repository files (or clone directly in a notebook).
 
